@@ -112,4 +112,5 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=B4788065D20CD2489CCFD08D059CEEC3/Name/@EntryValue">DFTODO</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=B4788065D20CD2489CCFD08D059CEEC3/Pattern/@EntryValue">(?&lt;=\W|^)(?&lt;TAG&gt;DFTODO)(\W|$)(.*)</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=B4788065D20CD2489CCFD08D059CEEC3/TodoIconStyle/@EntryValue">Normal</s:String>
-	<s:String x:Key="/Default/TeamCityAddin/DotCoverIntegration/CacheHomeDir/@EntryValue">C:\Users\rufer\AppData\Local\Temp</s:String></wpf:ResourceDictionary>
+	<s:String x:Key="/Default/TeamCityAddin/DotCoverIntegration/CacheHomeDir/@EntryValue">C:\Users\rufer\AppData\Local\Temp</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=dfch/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
