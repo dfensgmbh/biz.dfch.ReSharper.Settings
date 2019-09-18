@@ -105,6 +105,7 @@
 	<s:Double x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistence/PreviewSplitterHorizontalProportion/=UnitTestSessionDescriptor/@EntryIndexedValue">1</s:Double>
 	<s:Double x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistence/PreviewSplitterVerticalProportion/=ContinuousTestingSessionDescriptor/@EntryIndexedValue">1.2117296051332234</s:Double>
 	<s:Double x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistence/PreviewSplitterVerticalProportion/=UnitTestSessionDescriptor/@EntryIndexedValue">0.37866279530616104</s:Double>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionDefault/ActivateOnRun/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/UpgradeFromExceptionReport/UpgradePerformed/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=B4788065D20CD2489CCFD08D059CEEC3/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=B4788065D20CD2489CCFD08D059CEEC3/Color/@EntryValue">WindowText</s:String>
@@ -112,4 +113,5 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=B4788065D20CD2489CCFD08D059CEEC3/Name/@EntryValue">DFTODO</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=B4788065D20CD2489CCFD08D059CEEC3/Pattern/@EntryValue">(?&lt;=\W|^)(?&lt;TAG&gt;DFTODO)(\W|$)(.*)</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=B4788065D20CD2489CCFD08D059CEEC3/TodoIconStyle/@EntryValue">Normal</s:String>
-	<s:String x:Key="/Default/TeamCityAddin/DotCoverIntegration/CacheHomeDir/@EntryValue">C:\Users\rufer\AppData\Local\Temp</s:String></wpf:ResourceDictionary>
+	<s:String x:Key="/Default/TeamCityAddin/DotCoverIntegration/CacheHomeDir/@EntryValue">C:\Users\rufer\AppData\Local\Temp</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=dfch/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
